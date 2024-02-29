@@ -2,8 +2,7 @@ Team Documentation:
 https://uccsoffice365-my.sharepoint.com/:w:/g/personal/tandrew4_uccs_edu/EdmzumKPhpFCpJ5KJO8NKuYB3hGY11hilFIy9RZikXCueQ?e=CplVQ1
 
 
-GE02:
-Technical Documentation:
+Technical Documentation (Sections for different GE's):
 https://uccsoffice365-my.sharepoint.com/:w:/g/personal/cwaller2_uccs_edu/EWNFhKuyPBVFrcEaQlNk9i8B--Yr5KWO5wGS66UWDiPxUQ?e=8Z8kFi
 
 
