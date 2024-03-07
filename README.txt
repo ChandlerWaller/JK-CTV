@@ -11,6 +11,8 @@ GE02
 https://uccsoffice365-my.sharepoint.com/:w:/g/personal/kminiter_uccs_edu/EeUyRvxAEZBBgPb-Z11HgOsBvhqb1HdbjYVk9ksZCMvL-Q?e=XOjJWj
 GE03
 https://docs.google.com/document/d/1bdfAAbIwXPTq6w6u-SGRwYs_kcvuCra6W_nw-hOa9yE/edit
+GE04
+https://uccsoffice365-my.sharepoint.com/:w:/g/personal/cwaller2_uccs_edu/ES5xCAzqLtJPnbJ1JJzflI4BT3mvZAnqNLHQEJnu-PDKTA?e=8V8vhF
 
 
 GE02 Retrospective Summary:
